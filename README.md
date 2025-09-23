@@ -48,3 +48,5 @@ addDays(today, 7); // One week from now
 # PR Merge: 2025-10-15 - enhancement/merge-2930
 
 # PR Merge: 2025-10-15 - enhancement/merge-6869
+
+# PR Merge: 2025-10-15 - feature/merge-6799
